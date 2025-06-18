@@ -1,0 +1,11 @@
+transformers>=4.38.2
+torch>=2.1
+evaluate
+scikit-learn
+pandas
+numpy
+opencv-python
+matplotlib
+Pillow
+accelerate
+bitsandbytes
